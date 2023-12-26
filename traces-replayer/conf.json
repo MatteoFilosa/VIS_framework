@@ -1,0 +1,10 @@
+{
+	"url":"https://vega.github.io/falcon/flights-duckdb/",
+	"name":"falcon_7M",
+	"siblings_percentage":10,
+	"repetitions":1,
+	"user":0,
+	"vis":{
+		"falcon_7M":"https://vega.github.io/falcon/flights-duckdb/"
+	}
+}

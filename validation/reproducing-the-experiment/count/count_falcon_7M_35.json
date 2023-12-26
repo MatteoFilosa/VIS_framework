@@ -1,0 +1,12 @@
+[
+    "----------------------PATH 1------------------",
+    "number of mousemove on distance, transition: 0--->0 = 1",
+    "number of mouseout on distance, transition: 0--->0 = 1",
+    "----------------------PATH 2------------------",
+    "number of mouseout on distance, transition: 0--->0 = 1",
+    "----------------------PATH 3------------------",
+    "number of mousemove on airtime, transition: 0--->0 = 1",
+    "number of mouseout on airtime, transition: 0--->0 = 2",
+    "----------------------PATH 4------------------",
+    "----------------------PATH 5------------------"
+]

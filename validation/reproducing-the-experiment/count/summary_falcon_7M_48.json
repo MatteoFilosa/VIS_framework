@@ -1,0 +1,19 @@
+{
+    "0": [
+        "mousedown on #departure canvas.marks , transition: 0--->0",
+        "mousemove on #departure canvas.marks , transition: 0--->0",
+        "mouseup on #departure canvas.marks , transition: 0--->0"
+    ],
+    "1":[
+
+    ],
+    "2":[
+
+    ],
+    "3":[
+
+    ],
+    "4":[
+        
+    ]
+}

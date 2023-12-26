@@ -1,0 +1,18 @@
+[
+    "----------------------PATH 1------------------",
+    "number of mousemove on delay, transition: 0--->0 = 1",
+    "number of mousemove on airtime, transition: 0--->0 = 1",
+    "number of mousemove on distance, transition: 0--->0 = 4",
+    "number of special mousemove on distance, transition: 4--->4 = 5",
+    "number of mousedown on distance, transition: 0--->4 = 5",
+    "number of mouseup on distance, transition: 4--->0 = 5",
+    "number of click on distance, transition: 0--->0 = 3",
+    "number of wheel on distance, transition: 0--->0 = 33",
+    "number of mouseout on distance, transition: 0--->0 = 4",
+    "number of mouseout on airtime, transition: 0--->0 = 3",
+    "number of mouseout on delay, transition: 0--->0 = 4",
+    "----------------------PATH 2------------------",
+    "----------------------PATH 3------------------",
+    "----------------------PATH 4------------------",
+    "----------------------PATH 5------------------"
+]
