@@ -1131,7 +1131,7 @@ if __name__ == "__main__":
     if(userTrace == 0):
 
         #open the statechart json file
-        explorationSequence = open('explorations/exploration_' + nameVis +'_1.json') #change the number of the exploration you would like to test!
+        explorationSequence = open('exploration_falcon_7M_1.json') #change the number of the exploration you would like to test! open('explorations/exploration_' + nameVis +'_1.json')
 
         #returns the JSON object as a dictionary
         explorationSequence = json.load(explorationSequence)
