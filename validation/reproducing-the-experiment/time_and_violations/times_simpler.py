@@ -47,7 +47,7 @@ def main():
         if os.path.exists(input_file_path):
             result = process_json_file(input_file_path)
 
-            output_file_name = f"output_{i}.json"
+            output_file_name = f"time_elapsed_{i}.json"
             output_file_path = os.path.join(output_directory, output_file_name)
 
             with open(output_file_path, 'w') as output_file:
